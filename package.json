@@ -1,0 +1,19 @@
+{
+  "name": "@simplestudy/cypress-webportal-tests",
+  "version": "1.0.0",
+  "description": "SimpleStudy WebPortal Cypress Tests",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SimplesStudy/cypress-webportal-tests"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "@testing-library/cypress": "^10.0.1",
+    "cypress": "^13.7.0",
+    "cypress-social-logins": "^1.14.1"
+  }
+}
